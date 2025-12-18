@@ -1,0 +1,5 @@
+Percentagem só vai até ao 100 e podem ser números reais?
+Operação de .* só envolve imagem e percentagem, ou também envolve imagem e número? E permite entre imagem, imagem? E ./ existe, entre que tipos?
+Operação de remoção deve ser por indíce ou pelo valor do elemento e quais as keywords?
+O que faz o output?
+Converter o tipo
