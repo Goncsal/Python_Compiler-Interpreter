@@ -9,8 +9,6 @@
 - Gonçalo Almeida
 - João Barreira
 - José Pedro Bagagem
-- Marta Contente
-
 
 # Relatório
 ## Introdução
